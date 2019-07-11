@@ -1,0 +1,11 @@
+C:\Users\eduardo\source\repos\ComparableCSharp\ComparableCSharp\bin\Debug\netcoreapp2.1\ComparableCSharp.deps.json
+C:\Users\eduardo\source\repos\ComparableCSharp\ComparableCSharp\bin\Debug\netcoreapp2.1\ComparableCSharp.runtimeconfig.json
+C:\Users\eduardo\source\repos\ComparableCSharp\ComparableCSharp\bin\Debug\netcoreapp2.1\ComparableCSharp.runtimeconfig.dev.json
+C:\Users\eduardo\source\repos\ComparableCSharp\ComparableCSharp\bin\Debug\netcoreapp2.1\ComparableCSharp.dll
+C:\Users\eduardo\source\repos\ComparableCSharp\ComparableCSharp\bin\Debug\netcoreapp2.1\ComparableCSharp.pdb
+C:\Users\eduardo\source\repos\ComparableCSharp\ComparableCSharp\obj\Debug\netcoreapp2.1\ComparableCSharp.csprojAssemblyReference.cache
+C:\Users\eduardo\source\repos\ComparableCSharp\ComparableCSharp\obj\Debug\netcoreapp2.1\ComparableCSharp.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\source\repos\ComparableCSharp\ComparableCSharp\obj\Debug\netcoreapp2.1\ComparableCSharp.AssemblyInfoInputs.cache
+C:\Users\eduardo\source\repos\ComparableCSharp\ComparableCSharp\obj\Debug\netcoreapp2.1\ComparableCSharp.AssemblyInfo.cs
+C:\Users\eduardo\source\repos\ComparableCSharp\ComparableCSharp\obj\Debug\netcoreapp2.1\ComparableCSharp.dll
+C:\Users\eduardo\source\repos\ComparableCSharp\ComparableCSharp\obj\Debug\netcoreapp2.1\ComparableCSharp.pdb
